@@ -75,7 +75,7 @@ header {
   border: 3px solid #eee;
   margin: auto;
 }
-
+/*-- COLLECTION --*/
 .card-shadow {
   box-shadow: 5px 8px 20px #444;
 }
@@ -97,6 +97,7 @@ header {
   opacity: 1;
 }
 
+/*--- COLLECTION END ---*/
 
 
 
