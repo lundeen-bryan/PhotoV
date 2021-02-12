@@ -217,4 +217,26 @@ header {
     transform: translateY(0);
     opacity: 1;
   }
+}.contact {
+    background-image: -webkit-linear-gradient(345deg,rgba(21,31,32,1.00) 0%,rgba(21,31,32,0.85) 22.28%,rgba(21,31,32,0.50) 48.19%,rgba(21,31,32,0.26) 100%);
+    background-image: -moz-linear-gradient(345deg,rgba(21,31,32,1.00) 0%,rgba(21,31,32,0.85) 22.28%,rgba(21,31,32,0.50) 48.19%,rgba(21,31,32,0.26) 100%);
+    background-image: -o-linear-gradient(345deg,rgba(21,31,32,1.00) 0%,rgba(21,31,32,0.85) 22.28%,rgba(21,31,32,0.50) 48.19%,rgba(21,31,32,0.26) 100%);
+    background-image: linear-gradient(105deg,rgba(21,31,32,1.00) 0%,rgba(21,31,32,0.85) 22.28%,rgba(21,31,32,0.50) 48.19%,rgba(21,31,32,0.26) 100%);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contact {
+    background-image: url(../img/form-img.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.form-control {
+    background: transparent;
+    background-color: transparent;
+    border-bottom: 2px solid #ccc;
+    border-radius: 0;
 }
