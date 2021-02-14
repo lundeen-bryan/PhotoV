@@ -28,7 +28,7 @@ See the [PhotoV on Netlify](https://lundeen-bryan-photov.netlify.app/) on Netlif
 
 ## Description
 
-PhotoV (pronounced photo five) is a site for a photo studio which shows a few interesting features. It's responsive due to both Bootstrap and media queries. Animation upon initial page load using jQuery. Fixed navbar with some animated text. Ananimated heading and paragraph for the initial banner of the site. I used font awesome icons throughout to represent different ideas of the site. Card images were used to display categories of photos that the studio specializes in from wedding photos to graduation pics. An image gallery section displays several sample photos from the studio with an animated selection feature built with jquery and CSS. This allows customers to view categories of photos such as "free" photos, new photos and professional shots. There is a customer testimony section that uses an animated carousel feature which includes an automatic slideshow. There is an animated pricing section so that customers can see what pricing packages the studio offers. Following that section is a contact section which is a customized semi-transparent form layed on top of a scenic photo which looks very nice. The form on netlify is not currently operational but will be connected to the site email account. The email form has a color changing effect so that it initially transparent and then white when the customer is typing in the message to send. The footer is divided into four different parts including a mirror of the navbar, social media links and another form which allows visitors to subscribe to updated information when the site has new photos.
+PhotoV (pronounced photo five) is a site for a photo studio which shows a few interesting features. It's responsive due to both Bootstrap and media queries. Animation upon initial page load using jQuery. Fixed navbar with some animated text. An animated heading and paragraph for the initial banner of the site. I used font awesome icons throughout to represent different ideas of the site. Card images were used to display categories of photos that the studio specializes in from wedding photos to graduation pics. An image gallery section displays several sample photos from the studio with an animated selection feature built with jquery and CSS. This allows customers to view categories of photos such as "free" photos, new photos and professional shots. There is a customer testimony section that uses an animated carousel feature which includes an automatic slideshow. There is an animated pricing section so that customers can see what pricing packages the studio offers. Following that section is a contact section which is a customized semi-transparent form layed on top of a scenic photo which looks very nice. The form on Netlify is not currently operational but will be connected to the site email account. The email form has a color changing effect so that it's initially transparent and then white when the customer is typing in the message to send. The footer is divided into four different parts including a mirror of the navbar, social media links and another form which allows visitors to subscribe to updated information when the site has new photos.
 
 ## Technologies
 
@@ -41,11 +41,13 @@ PhotoV (pronounced photo five) is a site for a photo studio which shows a few in
 
 ## Difficulties Encountered
 
-Many of the features in the original tutorial were changed in this project such as the form because I felt that it was redundant to have a subscription email form in the footer AND in a form just above the footer. So this was changed to allow visitors to send email directly to the site email. The background of the form was also changed to a semi-transparent gradient background because I thought it looked nicer than the angle in the original.
+The site is based on a project I completed on a tutorial.
+
+Many of the features in the original tutorial were changed in this project such as the form because I felt that it was redundant to have a subscription email form in the footer _AND_ in a form just above the footer. So this was changed to allow visitors to send email directly to the site email. The background of the form was also changed to a semi-transparent gradient background because I thought it looked nicer than the angle in the original.
 
 Slight difficulty modifying the navbar because it was originally custom made and not a bootstrap template. I modified it further to make it semi-transparent.
 
-Some difficulty on menu items which snap to each section. I may go back and change it to use a transition and "scroll-spy" in a future update.
+Some difficulty on menu items which snap to each section. I may go back and change it to use a transition in a future update.
 
 [Back To The Top](#photov)
 
